@@ -1,0 +1,21 @@
+C:\Users\user\source\repos\Anket wpf\Anket wpf\bin\Debug\net6.0-windows\Anket wpf.exe
+C:\Users\user\source\repos\Anket wpf\Anket wpf\bin\Debug\net6.0-windows\Anket wpf.deps.json
+C:\Users\user\source\repos\Anket wpf\Anket wpf\bin\Debug\net6.0-windows\Anket wpf.runtimeconfig.json
+C:\Users\user\source\repos\Anket wpf\Anket wpf\bin\Debug\net6.0-windows\Anket wpf.dll
+C:\Users\user\source\repos\Anket wpf\Anket wpf\bin\Debug\net6.0-windows\Anket wpf.pdb
+C:\Users\user\source\repos\Anket wpf\Anket wpf\obj\Debug\net6.0-windows\Anket wpf.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Anket wpf\Anket wpf\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\user\source\repos\Anket wpf\Anket wpf\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\user\source\repos\Anket wpf\Anket wpf\obj\Debug\net6.0-windows\Anket wpf_MarkupCompile.cache
+C:\Users\user\source\repos\Anket wpf\Anket wpf\obj\Debug\net6.0-windows\Anket wpf_MarkupCompile.lref
+C:\Users\user\source\repos\Anket wpf\Anket wpf\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\user\source\repos\Anket wpf\Anket wpf\obj\Debug\net6.0-windows\Anket wpf.g.resources
+C:\Users\user\source\repos\Anket wpf\Anket wpf\obj\Debug\net6.0-windows\Anket wpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Anket wpf\Anket wpf\obj\Debug\net6.0-windows\Anket wpf.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Anket wpf\Anket wpf\obj\Debug\net6.0-windows\Anket wpf.AssemblyInfo.cs
+C:\Users\user\source\repos\Anket wpf\Anket wpf\obj\Debug\net6.0-windows\Anket wpf.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Anket wpf\Anket wpf\obj\Debug\net6.0-windows\Anket wpf.dll
+C:\Users\user\source\repos\Anket wpf\Anket wpf\obj\Debug\net6.0-windows\refint\Anket wpf.dll
+C:\Users\user\source\repos\Anket wpf\Anket wpf\obj\Debug\net6.0-windows\Anket wpf.pdb
+C:\Users\user\source\repos\Anket wpf\Anket wpf\obj\Debug\net6.0-windows\Anket wpf.genruntimeconfig.cache
+C:\Users\user\source\repos\Anket wpf\Anket wpf\obj\Debug\net6.0-windows\ref\Anket wpf.dll
